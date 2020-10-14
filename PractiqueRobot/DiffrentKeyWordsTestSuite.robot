@@ -21,3 +21,6 @@ CT_002_Synchronisation
     Input Text    id=txtPassword    admin123
     Click Button    id=btnLogin
     Close Browser
+    
+CT-003
+    Log To Console    github practice    
